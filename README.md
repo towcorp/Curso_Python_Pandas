@@ -1,5 +1,9 @@
-# Curso_Python_Pandas_Digital_Innovation
+# Curso_Python_Pandas_
  Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
+ 
+ Bibliotecas utilizadas
+  *Pandas
+  *Mathplotlib.Pyplot
  
  **Assuntos abordados neste curso**:
  1. Python Básico
