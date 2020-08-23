@@ -1,5 +1,5 @@
-# Curso_Python_Pandas_
- Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
+# Curso_Python_Pandas
+ Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
  
  Bibliotecas utilizadas
   *Pandas
